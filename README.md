@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html>
   
- Fighting Game Simulator
-<h1> WIP Python Discord Bot</h1>
+ <h1>Fighting Game Simulator<h1>
+<h2> WIP Python Discord Bot</h2>
 
 </html> 
